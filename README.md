@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @perfectba360
+- 👋 Hi, I’m @Mcharo1
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning AI and Cyber security
 - 💞️ I’m looking to collaborate on any project on technology industry
